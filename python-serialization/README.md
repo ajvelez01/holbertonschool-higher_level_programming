@@ -1,1 +1,2 @@
 - `task_00_basic_serialization.py`: serializes a dictionary to a JSON file and deserializes it back to a dictionary.
+- `task_01_pickle.py`: defines CustomObject, which serializes itself with pickle and deserializes from a file, returning None on errors.

@@ -1,3 +1,4 @@
 - `task_00_basic_serialization.py`: serializes a dictionary to a JSON file and deserializes it back to a dictionary.
 - `task_01_pickle.py`: defines CustomObject, which serializes itself with pickle and deserializes from a file, returning None on errors.
 - `task_02_csv.py`: defines convert_csv_to_json(csv_filename), which writes the CSV rows as a JSON list to data.json and returns True, or False if the file is missing.
+- `task_03_xml.py`: serializes a dictionary to XML under a data root and deserializes it back, keeping values as text.
